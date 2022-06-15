@@ -1,1 +1,2 @@
 this is feture merge git 
+this is for pull requesst commit 
